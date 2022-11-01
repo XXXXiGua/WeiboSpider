@@ -114,12 +114,12 @@ python run_spider.py user
     "thumbnail",
     "near",
     "geo",
-    source,
-    user_rt_id,
-    user_rt,
-    retweet_id,
-    reply_to,
-    retweet_date,
+    "source",
+    "user_rt_id",
+    "user_rt",
+    "retweet_id",
+    "reply_to",
+    "retweet_date",
    
 
   "crawl_time": 1666863485,
