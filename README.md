@@ -82,42 +82,41 @@ python run_spider.py user
 
 ```json
 {
-    "id",
-    conversation_id,
-    created_at,
-    date,
-    time,
-    timezone,
-    user_id,
-    username,
-    name,
-    place,
-    tweet,
-    language,
-    mentions,
-    urls,
-    photos,
-    replies_count,
-    retweets_count,
-    likes_count,
-    hashtags,
-    cashtags,
-    link,
-    retweet,
-    quote_url,
-    video,
-    thumbnail,
-    near,
-    geo,
+
+    "id",1583608345453555712
+    "conversation_id",1583424880891961344
+    "created_at",2022-10-21 14:37:01 中国标准时间
+    "date",2022-10-21,14:37:01
+    "time",14:37:01
+    "timezone",+0800
+    "user_id",1524736634826235906
+    "username",qinxian54220128
+    "name",秦先,
+    "place",
+    "tweet",显而易见： 二十大的主题，本身就隐含着“中国特色社会主义”和“习近平新时代中国特色社会主义”的区别。  前者是邓江胡，后者则是被毛化的习。 前者强调改革开放，后者主张开历史倒车！  两条路线水火不容，没有妥协的空间。
+    "language",zh
+    "mentions",
+    "urls",
+    "photos",
+    "replies_count",0
+    "retweets_count",2
+    "likes_count",21
+    "hashtags",
+    "cashtags",
+    "link",https://twitter.com/qinxian54220128/status/1583346603012018176
+    "retweet,
+    "quote_url",
+    "video",
+    "thumbnail",
+    "near",
+    "geo",
     source,
     user_rt_id,
     user_rt,
     retweet_id,
     reply_to,
     retweet_date,
-    translate,
-    trans_src,
-    trans_dest
+   
 
   "crawl_time": 1666863485,
   "_id": "1749127163",
