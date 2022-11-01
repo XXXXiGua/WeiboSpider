@@ -91,7 +91,7 @@ python run_spider.py user
     "timezone",+0800
     "user_id",1524736634826235906
     "username",qinxian54220128
-    "name",秦先,
+    "name",秦先
     "place",
     "tweet",
     显而易见： 二十大的主题，本身就隐含着“中国特色社会主义”和“习近平新时代中国特色社会主义”的区别。  
@@ -108,7 +108,7 @@ python run_spider.py user
     "hashtags",
     "cashtags",
     "link",https://twitter.com/qinxian54220128/status/1583346603012018176
-    "retweet,
+    "retweet",
     "quote_url",
     "video",
     "thumbnail",
